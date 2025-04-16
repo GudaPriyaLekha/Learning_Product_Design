@@ -10,5 +10,5 @@ The primary purpose of this repository is to:
 2. An attempt to design and product flow diagrams.
 3. Track my progress and key takeaways from various applications.
 
-## Contributing
+## Contribution
 This repository is for personal learning purposes, so contributions are not expected. However, if you have suggestions or resources that might be helpful, feel free to open an issue or submit a pull request.
